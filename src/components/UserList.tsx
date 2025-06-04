@@ -1,6 +1,5 @@
 import { List, ListItem, ListItemText } from "@mui/material";
 import type { User } from "../types/User";
-import React from "react";
 
 interface Props {
   users: User[];
